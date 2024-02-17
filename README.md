@@ -26,3 +26,10 @@
 |---    |:-:    |:-:    |:-:    |--:    |
 |   &#x1F600;   |   GRINNING FACE   |   ```&#x1F600;``` |   ```&#128512;``` |   0.05 €  |
 ```
+ 
+ [left]Texte àligné à gauche[/left]
+[center]Texte centré[/center]
+[right]Texte algné à droite[/right]
+
+
+
