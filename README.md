@@ -10,3 +10,19 @@
    This text is **bold**.(\*\*bold**)\
    This text is *italic*.(\*italic\*)\
    This text is both ***bold and italic***.(\*\*\*bold and italic***)
+## liste a puce
+
+* First item in an unordered list. \* 
+* Another item.
+* Here we go again.
+
+## Le tableau
+
+|   Emoji   |   Nom |   Hex |   Dec |   Prix    |
+|---    |:-:    |:-:    |:-:    |--:    |
+|   &#x1F600;   |   GRINNING FACE   |   ```&#x1F600;``` |   ```&#128512;``` |   0.05 €  |
+```
+|   Emoji   |   Nom |   Hex |   Dec |   Prix    |
+|---    |:-:    |:-:    |:-:    |--:    |
+|   &#x1F600;   |   GRINNING FACE   |   ```&#x1F600;``` |   ```&#128512;``` |   0.05 €  |
+```
