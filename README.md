@@ -31,5 +31,10 @@
 [center]Texte centré[/center]
 [right]Texte algné à droite[/right]
 
+## Les liens
+[Adobe](https://www.adobe.com)
 
+```
+[Adobe](https://www.adobe.com)
+```
 
